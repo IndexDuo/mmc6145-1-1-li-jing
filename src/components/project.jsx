@@ -1,7 +1,10 @@
-export default function Project() {
+export default function Project({ title, description, image, link }) {
     return (
-        <main>
-            <h1>I'm the about page!</h1>
-        </main>
+        <div>
+            <h1>{title}</h1>
+            <img src={image} alt={title}></img>
+            <p>{description}</p>
+            <a href={link}>View Project</a>
+        </div>
     );
 }
