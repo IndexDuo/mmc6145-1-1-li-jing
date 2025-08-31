@@ -1,3 +1,14 @@
+:root {
+    --color-primary: hsl(251, 21%, 10%);
+    --color-secondary: hsl(126 31.5% 40.2%);
+    --color-accent: hsl(276 31.5% 47.2%);
+    --color-text: hsl(236 10.7% 9.9%);
+    --color-background: hsl(222 8% 96%);
+}
+
 body {
-  margin: 0;
+    margin: 0;
+    color: var(--color-text);
+    background-color: var(--color-background);
+    font-family: "roboto", sans-serif;
 }

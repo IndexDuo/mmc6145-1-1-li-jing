@@ -1,16 +1,16 @@
 [
     {
         "id": 1,
-        "title": "Title 1",
-        "description": "desc1",
-        "image": "img1",
-        "link": "link1"
+        "title": "Universal Fan Fest Nights – Digital Medallion Quest",
+        "description": "Web-based scavenger hunt experience. I designed five medallions — Anime, Sci-Fi, Fantasy, Gaming, and the ultimate gold medallion. (Note: the Gaming medallion design was changed last minute due to Nintendo IP concerns, so my version was not used.) I also created the postcard and event signage, and the ultimate medallion was produced as a physical souvenir for guests who completed the quest.",
+        "image": "/images/fanfest-medallions.jpeg",
+        "link": "https://blog.discoveruniversal.com/events/universal-fan-fest-nights-digital-medallion-quest/"
     },
     {
         "id": 2,
-        "title": "Title 2",
-        "description": "desc2",
-        "image": "img2",
-        "link": "link2"
+        "title": "Epic Universe – Grand Opening Digital Medallion",
+        "description": "Digital medallion for Epic Universe grand opening. I designed the digital medallion.",
+        "image": "/images/epic-universe-medallion.jpg",
+        "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fuuopodcast%2Fposts%2Fthe-epic-universe-opening-day-digital-medallion%2F1291444076314783%2F&psig=AOvVaw2SuGLMJ6J7-Bi5gS_nqM4R&ust=1756704801727000&source=images&cd=vfe&opi=89978449&ved=0CBkQjhxqFwoTCOjAsMiptI8DFQAAAAAdAAAAABAE"
     }
 ]
