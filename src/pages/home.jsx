@@ -17,7 +17,9 @@ export default function Home() {
                     </div>
                 </div>
             </div>
+
             <div className={styles.projectContainer}>
+                <h2 className={styles.h2}>Recent Works</h2>
                 {projects.map((item) => (
                     <Project
                         key={item.id}

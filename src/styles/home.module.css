@@ -28,6 +28,12 @@
     padding: 10px;
 }
 
+.h2 {
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 60px;
+}
+
 .projectContainer {
     background-color: var(--color-primary);
     color: var(--color-background);

@@ -1,0 +1,30 @@
+main {
+    text-align: center;
+    margin: 40px 16px;
+}
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+article {
+    background-color: #e0e0e0;
+    max-width: 700px;
+    margin: 0 auto 20px auto;
+    padding: 30px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.link {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.linkHome {
+    background: var(--color-secondary);
+    color: var(--color-background);
+    text-decoration: none;
+    padding: 10px 14px;
+}
